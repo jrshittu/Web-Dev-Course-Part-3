@@ -10,7 +10,6 @@
 [Project 3](#pro3)
 [Project 4](#pro4)
 [Project 5](#pro5)
-[Project 6](#pro6)
 [References](#ref)
 
 ## CSS Positioning <a name="pos"></a>
@@ -168,9 +167,3 @@ CSS Transforms are a powerful tool for manipulating the appearance of HTML eleme
 ![Robot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0sbb49mhkr6j3wei0rsb.png)
 Click [here](https://projects.raspberrypi.org/en/projects/build-a-robot/0) for the instructions
 Click [here](https://trinket.io/embed/html/b29b50e571) to open the starter project
-
-## Project 2: Responsive Navigation Bar <a name="pro2"></a>
-## Project 3: Image Gallery with Transition Effects <a name="pro3"></a>
-## Project 4: Interactive Product Showcase with Transform<a name="pro4"></a>
-## Project 5: Animated Progress Indicators with Animation<a name="pro5"></a>
-## Project 6: Interactive Landing Page with Positioning, Transitions, and Animations <a name="pro6"></a>
