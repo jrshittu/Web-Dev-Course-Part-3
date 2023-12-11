@@ -15,7 +15,8 @@
 ## CSS Positioning <a name="pos"></a>
 CSS positioning is a fundamental concept in web development that allows you to control the placement of HTML elements on a web page. It's like arranging furniture in a room – you can position elements wherever you want to create the desired layout.
 
-![Position All](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lb02ldtgymslmeazl3qj.png) Photo Credits: [CSS Solid](https://www.csssolid.com/css-position.html)
+![Position All](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lb02ldtgymslmeazl3qj.png) 
+Photo Credits: [CSS Solid](https://www.csssolid.com/css-position.html)
 
 There are five main positioning values in CSS:
 
